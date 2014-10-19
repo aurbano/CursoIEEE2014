@@ -1,0 +1,32 @@
+{
+  "name": "cursoieee2014",
+  "version": "0.0.1",
+  "description": "Seminarjs Demo website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aurbano/CursoIEEE2014.git"
+  },
+  "keywords": [
+    "seminarjs",
+    "javascript",
+    "ieee",
+    "curso",
+    "2014"
+  ],
+  "author": "Nichejs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aurbano/CursoIEEE2014/issues"
+  },
+  "homepage": "https://github.com/aurbano/CursoIEEE2014",
+  "dependencies": {
+    "seminarjs-chat": "0.0.2",
+    "seminarjs": "0.0.1",
+    "seminarjs-contest": "0.0.1"
+  }
+}
